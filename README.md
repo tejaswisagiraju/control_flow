@@ -20,7 +20,7 @@ First complete all exercises from the [**JS Primitives**](https://github.com/sf-
 * Confirm if a user has three friends? Use a loop and `prompt` to collect the names of the `friends`. Alert back the names of the `friends`.
 * Prompt the user to give a word. Then alert back the number of vowels.
 * Write a loop to solve the following riddle. I am a number between `2` and `100`. I am even and multiple of 3. I end in `2`. My digits sum to `9`.
-* Generate a random number between 1 and 100, an integer not a float. Prompt the user to guess the number. Continue prompting the user for a guess using a loop, telling them each time if the number is lower or higher.
+* Generate a random number between 1 and 100, an integer and not a float. Prompt the user to guess the number. Continue prompting the user for a guess using a loop, telling them each time if the number is lower or higher.
 * Super Challenge: Given an array of friends
 
   ```
