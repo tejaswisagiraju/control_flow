@@ -8,6 +8,9 @@
 
 Please try the following exercises in the Chrome console.
 
+First complete all exercises from the [**JS Primitives**](https://github.com/sf-wdi-18/notes/tree/master/lectures/week-01/day_2_intro_js/dawn_js_primitives) lesson.
+
+
 ## Exercises
 
 * Practice using `prompt`, `confirm`, and `alert` try the following. You may want to look them up on **MDN**.
@@ -31,4 +34,4 @@ Please try the following exercises in the Chrome console.
                   ].
   ```
 
-  write a loop to alert them in some random order.
+  write a loop to alert them in some random order. 
